@@ -1,0 +1,25 @@
+{
+  "profiles": {
+    "MrPRecher": {
+      "name": "MrPRecher",
+      "lastVersionId": "1.16.5"
+    }
+  },
+  "selectedProfile": "MrPRecher",
+  "clientToken": "ad3a0022-11d1-409c-867b-16481534a878",
+  "authenticationDatabase": {
+    "eb7394c25f6b3fe6a1235302307af6da": {
+      "displayName": "MrPRecher",
+      "accessToken": "eb7394c2-5f6b-3fe6-a123-5302307af6da",
+      "userid": "MrPRecher",
+      "uuid": "eb7394c2-5f6b-3fe6-a123-5302307af6da",
+      "username": "MrPRecher"
+    }
+  },
+  "selectedUser": "eb7394c25f6b3fe6a1235302307af6da",
+  "launcherVersion": {
+    "name": "Shiginima Launcher v4.400",
+    "format": 21,
+    "profilesFormat": 1
+  }
+}

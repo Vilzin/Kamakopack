@@ -1,0 +1,33 @@
+{
+  "apotheosis:spawner/root": {
+    "criteria": {
+      "game_start": "2021-05-16 20:06:52 -0300"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2021-05-16 20:06:52 -0300"
+    },
+    "done": true
+  },
+  "inventorypets:root": {
+    "criteria": {
+      "auto": "2021-05-16 20:06:51 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2021-05-16 20:06:51 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2021-05-16 19:59:56 -0300"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}
