@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "bf88d562-23e6-3733-bab2-29244dec03e6",
+    "name": "Yammero",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
