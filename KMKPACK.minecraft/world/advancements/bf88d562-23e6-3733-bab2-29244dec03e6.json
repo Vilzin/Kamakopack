@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2021-05-17 20:18:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2021-05-17 15:51:55 +0000"
@@ -140,6 +146,12 @@
   "botania:recipes/botania/monocle": {
     "criteria": {
       "has_item": "2021-05-17 19:09:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2021-05-17 19:53:36 +0000"
     },
     "done": true
   },
@@ -419,6 +431,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2021-05-17 20:35:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2021-05-17 00:01:30 +0000"
@@ -501,6 +519,7 @@
       "minecraft:cave_spider": "2021-05-17 19:15:39 +0000",
       "minecraft:silverfish": "2021-05-17 00:47:36 +0000",
       "minecraft:enderman": "2021-05-17 16:40:46 +0000",
+      "minecraft:stray": "2021-05-17 20:25:43 +0000",
       "minecraft:zombie": "2021-05-17 15:07:01 +0000",
       "minecraft:drowned": "2021-05-17 17:50:53 +0000"
     },
@@ -620,6 +639,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2021-05-17 20:18:39 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/manasteel_helmet": {
     "criteria": {
       "has_item": "2021-05-17 19:09:10 +0000"
@@ -659,6 +684,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2021-05-17 15:45:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2021-05-17 20:18:39 +0000"
     },
     "done": true
   },
@@ -713,6 +744,12 @@
   "tconstruct:recipes/tconstruct/gadgets/gadgets/slimeboots/sky": {
     "criteria": {
       "has_item": "2021-05-17 15:50:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_blue_flower": "2021-05-17 20:27:28 +0000"
     },
     "done": true
   },
@@ -1140,6 +1177,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2021-05-17 20:18:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2021-05-17 00:01:30 +0000"
@@ -1266,6 +1309,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2021-05-17 20:18:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2021-05-17 00:01:30 +0000"
@@ -1281,6 +1330,12 @@
   "botania:recipes/botania/purple_shiny_flower": {
     "criteria": {
       "has_item": "2021-05-17 15:34:32 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2021-05-17 20:14:04 +0000"
     },
     "done": true
   },
@@ -1347,6 +1402,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2021-05-17 00:01:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2021-05-17 19:47:40 +0000"
     },
     "done": true
   },
@@ -1419,6 +1480,12 @@
   "biomesoplenty:recipes/transportation/dead_boat": {
     "criteria": {
       "in_water": "2021-05-17 00:00:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
+    "criteria": {
+      "has_red_dye": "2021-05-17 20:18:39 +0000"
     },
     "done": true
   },
@@ -1512,7 +1579,8 @@
       "cooked_mutton": "2021-05-17 00:31:56 +0000",
       "cooked_beef": "2021-05-17 17:48:45 +0000",
       "cooked_cod": "2021-05-17 15:51:01 +0000",
-      "bread": "2021-05-17 15:03:53 +0000"
+      "bread": "2021-05-17 15:03:53 +0000",
+      "cooked_chicken": "2021-05-17 20:02:26 +0000"
     },
     "done": false
   },
@@ -1651,6 +1719,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2021-05-17 17:35:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2021-05-17 20:18:39 +0000"
     },
     "done": true
   },
@@ -1903,6 +1977,12 @@
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2021-05-17 19:06:08 +0000"
+    },
+    "done": true
+  },
+  "chunkloaders:recipes/search/basic_chunk_loader": {
+    "criteria": {
+      "item": "2021-05-17 20:03:41 +0000"
     },
     "done": true
   },
@@ -2356,6 +2436,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2021-05-17 20:18:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2021-05-17 00:03:25 +0000"
@@ -2380,6 +2466,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/fertilizer_dye": {
+    "criteria": {
+      "has_item": "2021-05-17 20:18:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_the_recipe": "2021-05-17 15:09:01 +0000"
@@ -2401,6 +2493,12 @@
   "apotheosis:enchanting/30ench": {
     "criteria": {
       "enchanted_item": "2021-05-17 16:44:20 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/virus_nullodermal": {
+    "criteria": {
+      "has_alt_item": "2021-05-17 20:05:45 +0000"
     },
     "done": true
   },
@@ -2509,6 +2607,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2021-05-17 00:00:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
+    "criteria": {
+      "has_yellow_dye": "2021-05-17 20:18:38 +0000"
     },
     "done": true
   },
