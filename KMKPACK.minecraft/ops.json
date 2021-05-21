@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "4fdf550e-f3b3-3a06-8485-0916b2b491bc",
+    "name": "teste",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "bf88d562-23e6-3733-bab2-29244dec03e6",
     "name": "Yammero",
     "level": 4,
