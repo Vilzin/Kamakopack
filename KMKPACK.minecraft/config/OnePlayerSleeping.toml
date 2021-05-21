@@ -1,0 +1,5 @@
+
+[General]
+	#One player needs to sleep to pass the night. [default: true]
+	onePlayerSleeping = true
+

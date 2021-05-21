@@ -1,7 +1,7 @@
 {
   "__comment": "Instructions: https://mods.blakebr0.com/docs/cucumber/tags-config",
   "forge:ingots/aluminum": "null",
-  "forge:ingots/constantan": "null",
+  "forge:ingots/constantan": "thermal:constantan_ingot",
   "forge:ingots/tungsten": "null",
   "forge:ingots/mithril": "null",
   "forge:ingots/tin": "mekanism:ingot_tin",
@@ -9,12 +9,12 @@
   "forge:ingots/zinc": "null",
   "forge:ingots/bronze": "mekanism:ingot_bronze",
   "forge:ingots/copper": "tconstruct:copper_ingot",
-  "forge:ingots/invar": "null",
-  "forge:dusts/niter": "null",
+  "forge:ingots/invar": "thermal:invar_ingot",
+  "forge:dusts/niter": "thermal:niter_dust",
   "forge:ingots/chrome": "null",
-  "forge:ingots/electrum": "null",
+  "forge:ingots/electrum": "thermal:electrum_ingot",
   "forge:silicon": "appliedenergistics2:silicon",
-  "forge:gems/apatite": "null",
+  "forge:gems/apatite": "thermal:apatite",
   "forge:ingots/brass": "null",
   "forge:ingots/silver": "iceandfire:silver_ingot",
   "forge:dusts/saltpeter": "null",
@@ -26,5 +26,8 @@
   "forge:ingots/lead": "mekanism:ingot_lead",
   "forge:ingots/graphite": "null",
   "forge:ingots/uranium": "mekanism:ingot_uranium",
-  "forge:ingots/nickel": "null"
+  "forge:ingots/nickel": "thermal:nickel_ingot",
+  "forge:ingots/signalum": "thermal:signalum_ingot",
+  "forge:ingots/lumium": "thermal:lumium_ingot",
+  "forge:ingots/enderium": "thermal:enderium_ingot"
 }
