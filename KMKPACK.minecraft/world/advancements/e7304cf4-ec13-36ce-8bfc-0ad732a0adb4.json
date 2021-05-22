@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/cracked_livingrock_bricks": {
+    "criteria": {
+      "has_item": "2021-05-22 05:07:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2021-05-18 01:04:13 +0000"
@@ -236,6 +242,12 @@
   "minecraft:recipes/building_blocks/lime_terracotta": {
     "criteria": {
       "has_terracotta": "2021-05-19 00:59:09 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/thunder_sword": {
+    "criteria": {
+      "has_terrasteel": "2021-05-21 23:34:47 +0000"
     },
     "done": true
   },
@@ -404,6 +416,12 @@
   "botania:recipes/botania/virus_necrodermal": {
     "criteria": {
       "has_alt_item": "2021-05-19 02:53:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/terra_sword": {
+    "criteria": {
+      "has_item": "2021-05-21 23:34:47 +0000"
     },
     "done": true
   },
@@ -620,6 +638,12 @@
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2021-05-20 00:11:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:greatsword": {
+    "criteria": {
+      "craft": "2021-05-22 02:36:54 +0000"
     },
     "done": true
   },
@@ -959,9 +983,21 @@
     },
     "done": true
   },
+  "botania:recipes/botania/vial": {
+    "criteria": {
+      "has_item": "2021-05-22 04:45:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2021-05-17 00:43:48 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/terra_axe": {
+    "criteria": {
+      "has_item": "2021-05-21 23:34:47 +0000"
     },
     "done": true
   },
@@ -1073,6 +1109,12 @@
     },
     "done": true
   },
+  "botania:main/bauble_wear": {
+    "criteria": {
+      "code_triggered": "2021-05-22 00:38:32 +0000"
+    },
+    "done": true
+  },
   "appliedenergistics2:main/root": {
     "criteria": {
       "certus": "2021-05-19 00:29:17 +0000"
@@ -1100,6 +1142,12 @@
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2021-05-19 22:56:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_gray_dye": "2021-05-22 05:05:25 +0000"
     },
     "done": true
   },
@@ -1229,6 +1277,12 @@
     },
     "done": true
   },
+  "mythicbotany:recipes/mythicbotany/yggdrasil_branch": {
+    "criteria": {
+      "has_item0": "2021-05-22 04:18:12 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/petal_lime_double": {
     "criteria": {
       "has_alt_item": "2021-05-19 00:23:54 +0000"
@@ -1241,6 +1295,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/alfheim_portal": {
+    "criteria": {
+      "has_item": "2021-05-21 23:34:47 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/rare": {
     "criteria": {
       "sword": "2021-05-17 00:33:57 +0000"
@@ -1250,6 +1310,12 @@
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2021-05-17 00:06:38 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/livingrock_bricks_slab": {
+    "criteria": {
+      "has_item": "2021-05-22 05:07:28 +0000"
     },
     "done": true
   },
@@ -1427,6 +1493,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/terrasteel_block": {
+    "criteria": {
+      "has_item": "2021-05-21 23:34:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2021-05-17 00:01:32 +0000"
@@ -1438,6 +1510,12 @@
       "has_ingredient": "2021-05-19 00:51:21 +0000"
     },
     "done": true
+  },
+  "mythicbotany:mythicbotany/all_runes": {
+    "criteria": {
+      "inventory_changed9": "2021-05-22 02:50:04 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
@@ -1580,6 +1658,12 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2021-05-20 03:26:50 +0000"
+    },
+    "done": true
+  },
+  "botania:main/terrasteel_pickup": {
+    "criteria": {
+      "terrasteel": "2021-05-21 23:34:47 +0000"
     },
     "done": true
   },
@@ -2255,6 +2339,12 @@
     },
     "done": true
   },
+  "mythicbotany:mythicbotany/root": {
+    "criteria": {
+      "inventory_changed": "2021-05-21 23:34:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2021-05-18 03:42:20 +0000"
@@ -2276,6 +2366,12 @@
   "botania:recipes/botania/petal_cyan": {
     "criteria": {
       "has_item": "2021-05-17 01:51:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/chiseled_livingrock_bricks": {
+    "criteria": {
+      "has_the_recipe": "2021-05-22 04:28:32 +0000"
     },
     "done": true
   },
@@ -2483,6 +2579,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/mana_ring_greater": {
+    "criteria": {
+      "has_item": "2021-05-21 23:34:47 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/spark_upgrade_isolated": {
     "criteria": {
       "has_alt_item": "2021-05-20 04:08:49 +0000"
@@ -2681,6 +2783,12 @@
     },
     "done": true
   },
+  "mythicbotany:recipes/mythicbotany/alfsteel_aura_ring_smithing": {
+    "criteria": {
+      "alfsteel_aura_ring_criteria": "2021-05-21 23:34:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2021-05-18 01:04:13 +0000"
@@ -2876,6 +2984,12 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2021-05-18 01:03:59 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/livingrock_bricks_wall": {
+    "criteria": {
+      "has_item": "2021-05-22 05:07:28 +0000"
     },
     "done": true
   },
@@ -3293,6 +3407,12 @@
     },
     "done": true
   },
+  "mythicbotany:recipes/mythicbotany/master_rune_holder": {
+    "criteria": {
+      "has_item0": "2021-05-22 02:02:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2021-05-17 01:53:25 +0000"
@@ -3302,6 +3422,12 @@
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_red_dye": "2021-05-21 00:49:46 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/thorn_chakram": {
+    "criteria": {
+      "has_item": "2021-05-21 23:34:47 +0000"
     },
     "done": true
   },
@@ -3332,6 +3458,12 @@
   "biomesoplenty:recipes/transportation/umbran_boat": {
     "criteria": {
       "in_water": "2021-05-17 00:00:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/terraform_rod": {
+    "criteria": {
+      "has_item": "2021-05-21 23:34:47 +0000"
     },
     "done": true
   },
@@ -3503,6 +3635,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/terra_pick": {
+    "criteria": {
+      "has_item": "2021-05-21 23:34:47 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/magenta_petal_block": {
     "criteria": {
       "has_item": "2021-05-18 01:17:53 +0000"
@@ -3518,6 +3656,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2021-05-17 00:14:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2021-05-22 05:31:15 +0000"
     },
     "done": true
   },
@@ -3868,6 +4012,12 @@
     },
     "done": true
   },
+  "mythicbotany:recipes/mythicbotany/dreamwood_twig_wand": {
+    "criteria": {
+      "has_item": "2021-05-22 05:05:07 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/mushroom_5": {
     "criteria": {
       "has_item": "2021-05-20 02:49:48 +0000"
@@ -3961,6 +4111,12 @@
   "botania:recipes/botania/petal_black_double": {
     "criteria": {
       "has_alt_item": "2021-05-18 03:17:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/star_sword": {
+    "criteria": {
+      "has_terrasteel": "2021-05-21 23:34:47 +0000"
     },
     "done": true
   },
@@ -4060,6 +4216,12 @@
     },
     "done": true
   },
+  "mythicbotany:recipes/mythicbotany/alfsteel_axe_smithing": {
+    "criteria": {
+      "alfsteel_axe_criteria": "2021-05-21 23:34:47 +0000"
+    },
+    "done": true
+  },
   "cc:recipes/misc/claim_block": {
     "criteria": {
       "has_sign": "2021-05-19 23:16:49 +0000"
@@ -4123,6 +4285,12 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-05-17 00:07:38 +0000"
+    },
+    "done": true
+  },
+  "aiotbotania:recipes/aiotbotania/terra_hoe": {
+    "criteria": {
+      "has_material": "2021-05-21 23:34:47 +0000"
     },
     "done": true
   },
@@ -4267,6 +4435,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/aura_ring_greater": {
+    "criteria": {
+      "has_item": "2021-05-21 23:34:47 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/magic_boat": {
     "criteria": {
       "in_water": "2021-05-17 00:00:17 +0000"
@@ -4279,9 +4453,21 @@
     },
     "done": true
   },
+  "botania:recipes/botania/conversions/terrasteel_block_deconstruct": {
+    "criteria": {
+      "has_item": "2021-05-21 23:34:47 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared_block/seared_bricks_stairs": {
     "criteria": {
       "has_item": "2021-05-18 23:36:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/slab_recombine/livingrock_bricks": {
+    "criteria": {
+      "has_item": "2021-05-22 05:07:28 +0000"
     },
     "done": true
   },
@@ -4441,6 +4627,12 @@
     },
     "done": true
   },
+  "mythicbotany:recipes/mythicbotany/alfsteel_sword_smithing": {
+    "criteria": {
+      "alfsteel_sword_criteria": "2021-05-21 23:34:47 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/brown_petal_block": {
     "criteria": {
       "has_item": "2021-05-18 03:18:02 +0000"
@@ -4495,6 +4687,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2021-05-22 05:31:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2021-05-18 01:14:58 +0000"
@@ -4516,6 +4714,12 @@
   "botania:recipes/botania/conversions/manasteel_block_deconstruct": {
     "criteria": {
       "has_item": "2021-05-18 03:58:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2021-05-21 23:56:37 +0000"
     },
     "done": true
   },
@@ -4573,6 +4777,12 @@
     },
     "done": true
   },
+  "aiotbotania:recipes/aiotbotania/terra_shovel": {
+    "criteria": {
+      "has_material": "2021-05-21 23:34:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2021-05-18 23:45:42 +0000"
@@ -4621,6 +4831,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/mana_glass_pane": {
+    "criteria": {
+      "has_item": "2021-05-22 04:45:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-05-18 04:04:35 +0000"
@@ -4630,6 +4846,12 @@
   "botania:recipes/botania/quartz_red": {
     "criteria": {
       "has_item": "2021-05-18 23:33:57 +0000"
+    },
+    "done": true
+  },
+  "mythicbotany:recipes/mythicbotany/alfsteel_mana_ring_smithing": {
+    "criteria": {
+      "alfsteel_mana_ring_criteria": "2021-05-21 23:34:47 +0000"
     },
     "done": true
   },
@@ -4648,6 +4870,12 @@
   "botania:recipes/botania/cyan_shiny_flower": {
     "criteria": {
       "has_item": "2021-05-17 01:51:18 +0000"
+    },
+    "done": true
+  },
+  "mythicbotany:recipes/mythicbotany/alfsteel_pick_smithing": {
+    "criteria": {
+      "alfsteel_pick_criteria": "2021-05-21 23:34:47 +0000"
     },
     "done": true
   },
@@ -4720,6 +4948,12 @@
   "botania:recipes/botania/petal_light_gray_double": {
     "criteria": {
       "has_alt_item": "2021-05-18 01:16:43 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/throwball/glow_ball": {
+    "criteria": {
+      "has_item": "2021-05-22 05:31:15 +0000"
     },
     "done": true
   },
@@ -4810,6 +5044,12 @@
   "apotheosis:spawner/capturing": {
     "criteria": {
       "egg": "2021-05-17 00:43:48 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mossy_livingrock_bricks": {
+    "criteria": {
+      "has_item": "2021-05-22 05:07:28 +0000"
     },
     "done": true
   },
@@ -4909,6 +5149,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/hourglass": {
+    "criteria": {
+      "has_item": "2021-05-22 04:45:37 +0000"
+    },
+    "done": true
+  },
   "botania:main/lexicon_use": {
     "criteria": {
       "use_lexicon": "2021-05-18 01:04:55 +0000"
@@ -4969,9 +5215,21 @@
     },
     "done": true
   },
+  "mythicbotany:recipes/mythicbotany/rune_holder": {
+    "criteria": {
+      "has_item0": "2021-05-21 23:02:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2021-05-17 00:27:50 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/livingrock_bricks_stairs": {
+    "criteria": {
+      "has_item": "2021-05-22 05:07:28 +0000"
     },
     "done": true
   },
@@ -4984,6 +5242,12 @@
   "botania:recipes/misc/dye_cyan": {
     "criteria": {
       "has_item": "2021-05-18 02:04:56 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/throwball/efln_ball": {
+    "criteria": {
+      "has_item": "2021-05-22 05:31:15 +0000"
     },
     "done": true
   },
@@ -5182,6 +5446,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2021-05-18 01:04:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_gray_dye": "2021-05-22 05:05:25 +0000"
     },
     "done": true
   },

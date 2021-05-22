@@ -983,6 +983,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_gray_dye": "2021-05-22 05:05:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis": "2021-05-17 00:44:55 +0000"
@@ -2310,6 +2316,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2021-05-19 15:33:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_gray_dye": "2021-05-22 05:05:33 +0000"
     },
     "done": true
   },
@@ -4670,6 +4682,12 @@
     },
     "done": true
   },
+  "mythicbotany:recipes/mythicbotany/rune_holder": {
+    "criteria": {
+      "has_item0": "2021-05-22 04:15:51 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/materials_and_you": {
     "criteria": {
       "has_item": "2021-05-17 14:52:16 +0000"
@@ -4775,6 +4793,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2021-05-17 00:00:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2021-05-22 04:03:14 +0000"
     },
     "done": true
   },

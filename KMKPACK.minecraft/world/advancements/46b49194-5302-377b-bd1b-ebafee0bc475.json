@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-05-22 05:53:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2021-05-18 03:01:38 +0000"
@@ -188,6 +194,12 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2021-05-18 02:42:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting": {
+    "criteria": {
+      "has_gold_ore": "2021-05-22 07:05:56 +0000"
     },
     "done": true
   },
@@ -419,6 +431,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/gadgets/fancy_frame/clear_item_frame": {
+    "criteria": {
+      "has_item": "2021-05-22 05:53:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2021-05-18 02:34:21 +0000"
@@ -554,6 +572,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2021-05-18 02:36:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-05-22 05:53:46 +0000"
     },
     "done": true
   },
@@ -751,6 +775,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2021-05-22 07:06:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-05-22 05:53:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2021-05-18 03:01:38 +0000"
@@ -907,6 +943,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-05-22 05:53:46 +0000"
+    },
+    "done": true
+  },
+  "mythicbotany:recipes/mythicbotany/master_rune_holder": {
+    "criteria": {
+      "has_item0": "2021-05-22 04:20:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2021-05-18 02:35:15 +0000"
@@ -982,6 +1030,12 @@
   "botania:recipes/botania/azulejo_0": {
     "criteria": {
       "has_item": "2021-05-19 16:56:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-05-22 05:53:46 +0000"
     },
     "done": true
   },
@@ -1501,6 +1555,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/shuriken/flint_shuriken": {
+    "criteria": {
+      "has_item": "2021-05-22 07:06:55 +0000"
+    },
+    "done": true
+  },
   "appliedenergistics2:main/root": {
     "criteria": {
       "certus": "2021-05-18 03:31:27 +0000"
@@ -1582,6 +1642,12 @@
   "botania:recipes/botania/black_petal_block": {
     "criteria": {
       "has_item": "2021-05-20 02:23:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-05-22 05:53:46 +0000"
     },
     "done": true
   },
@@ -1671,6 +1737,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-05-22 05:53:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2021-05-18 02:54:02 +0000"
@@ -1728,6 +1800,12 @@
   "minecraft:recipes/building_blocks/yellow_terracotta": {
     "criteria": {
       "has_terracotta": "2021-05-18 03:06:19 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2021-05-22 06:25:04 +0000"
     },
     "done": true
   },
@@ -1971,6 +2049,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/animated_torch": {
+    "criteria": {
+      "has_item": "2021-05-22 07:02:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2021-05-18 03:35:37 +0000"
@@ -2021,7 +2105,8 @@
       "cooked_beef": "2021-05-18 03:08:25 +0000",
       "potato": "2021-05-18 03:03:47 +0000",
       "rotten_flesh": "2021-05-18 02:46:36 +0000",
-      "golden_carrot": "2021-05-20 04:07:17 +0000"
+      "golden_carrot": "2021-05-20 04:07:17 +0000",
+      "cooked_salmon": "2021-05-22 06:54:20 +0000"
     },
     "done": false
   },
@@ -2124,6 +2209,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-05-18 06:07:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-05-22 05:53:46 +0000"
     },
     "done": true
   },
@@ -2517,6 +2608,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-05-22 05:53:46 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/mushroom_10": {
     "criteria": {
       "has_alt_item": "2021-05-18 03:35:37 +0000"
@@ -2526,6 +2623,12 @@
   "botania:recipes/botania/mushroom_12": {
     "criteria": {
       "has_alt_item": "2021-05-18 03:35:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-05-22 05:53:46 +0000"
     },
     "done": true
   },
@@ -2859,6 +2962,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot": {
+    "criteria": {
+      "has_gold_ore": "2021-05-22 07:05:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2021-05-18 03:04:55 +0000"
@@ -2961,6 +3070,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-05-22 05:53:46 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/dark_quartz": {
     "criteria": {
       "has_the_recipe": "2021-05-18 19:56:37 +0000"
@@ -3039,6 +3154,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2021-05-22 07:02:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2021-05-18 04:51:01 +0000"
@@ -3108,6 +3229,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2021-05-18 03:36:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2021-05-22 05:08:07 +0000"
     },
     "done": true
   },
@@ -3294,6 +3421,18 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2021-05-18 20:56:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-05-22 05:53:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-05-22 05:53:46 +0000"
     },
     "done": true
   },

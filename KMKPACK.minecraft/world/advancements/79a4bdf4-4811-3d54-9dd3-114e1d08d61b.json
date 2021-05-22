@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2021-05-21 21:40:18 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2021-05-16 23:06:52 +0000"
@@ -851,6 +857,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2021-05-21 22:33:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_oak_planks": "2021-05-18 13:52:08 +0000"
@@ -1081,6 +1093,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2021-05-21 21:43:18 +0000",
       "minecraft:nether_wastes": "2021-05-18 01:27:29 +0000",
       "minecraft:warped_forest": "2021-05-18 01:28:47 +0000"
     },
@@ -1368,6 +1381,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2021-05-21 22:50:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_netherbrick": "2021-05-21 21:41:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2021-05-18 01:27:12 +0000"
@@ -1587,6 +1612,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2021-05-17 00:34:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2021-05-21 22:50:20 +0000"
     },
     "done": true
   },
@@ -2944,6 +2975,7 @@
       "minecraft:witch": "2021-05-20 10:49:55 +0000",
       "minecraft:husk": "2021-05-20 21:48:16 +0000",
       "minecraft:zombie": "2021-05-18 01:47:03 +0000",
+      "minecraft:drowned": "2021-05-22 01:57:58 +0000",
       "minecraft:zombie_villager": "2021-05-19 19:44:37 +0000"
     },
     "done": false
@@ -3014,9 +3046,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2021-05-21 21:33:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2021-05-18 23:34:32 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/red_string_interceptor": {
+    "criteria": {
+      "has_base_block": "2021-05-21 23:19:00 +0000"
     },
     "done": true
   },
@@ -3119,6 +3163,12 @@
   "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-05-20 13:04:24 +0000"
+    },
+    "done": true
+  },
+  "mythicbotany:recipes/mythicbotany/master_rune_holder": {
+    "criteria": {
+      "has_item0": "2021-05-21 22:09:55 +0000"
     },
     "done": true
   },
@@ -3362,6 +3412,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2021-05-22 01:58:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2021-05-19 02:53:49 +0000"
@@ -3556,10 +3612,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2021-05-22 01:57:31 +0000",
       "minecraft:mountains": "2021-05-17 00:39:29 +0000",
       "minecraft:forest": "2021-05-18 01:43:42 +0000",
       "minecraft:taiga": "2021-05-18 01:32:31 +0000",
+      "minecraft:deep_cold_ocean": "2021-05-22 01:57:24 +0000",
       "minecraft:taiga_hills": "2021-05-18 01:56:31 +0000",
+      "minecraft:deep_frozen_ocean": "2021-05-22 02:19:43 +0000",
       "minecraft:birch_forest": "2021-05-17 00:40:57 +0000",
       "minecraft:warm_ocean": "2021-05-21 03:07:21 +0000",
       "minecraft:deep_lukewarm_ocean": "2021-05-18 12:38:09 +0000",
@@ -3667,6 +3726,12 @@
     },
     "done": true
   },
+  "mythicbotany:recipes/mythicbotany/dreamwood_twig_wand": {
+    "criteria": {
+      "has_item": "2021-05-22 00:00:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2021-05-19 02:53:49 +0000"
@@ -3763,6 +3828,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2021-05-21 21:41:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_terracotta": {
     "criteria": {
       "has_terracotta": "2021-05-18 03:06:31 +0000"
@@ -3832,6 +3903,12 @@
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2021-05-18 23:34:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2021-05-21 22:11:24 +0000"
     },
     "done": true
   },
@@ -3916,6 +3993,12 @@
   "appliedenergistics2:recipes/appliedenergistics2/block_cutter/slabs/fluix_slab": {
     "criteria": {
       "has_fluix_block": "2021-05-18 15:12:43 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2021-05-21 22:48:37 +0000"
     },
     "done": true
   },
@@ -4006,9 +4089,11 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2021-05-18 04:17:47 +0000",
+      "cooked_mutton": "2021-05-21 23:32:09 +0000",
       "cooked_beef": "2021-05-17 23:43:55 +0000",
       "beef": "2021-05-17 00:42:05 +0000",
       "porkchop": "2021-05-18 02:05:20 +0000",
+      "apple": "2021-05-21 22:23:01 +0000",
       "bread": "2021-05-21 02:42:37 +0000",
       "rotten_flesh": "2021-05-17 00:34:09 +0000",
       "carrot": "2021-05-21 03:27:49 +0000"
@@ -4042,6 +4127,12 @@
   "tconstruct:recipes/tools/common/slime/lead": {
     "criteria": {
       "has_slime_ball": "2021-05-17 23:27:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_ice_dragon": "2021-05-21 22:35:01 +0000"
     },
     "done": true
   },
@@ -4150,6 +4241,12 @@
   "botania:recipes/botania/blue_petal_block": {
     "criteria": {
       "has_item": "2021-05-19 02:51:56 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/prism": {
+    "criteria": {
+      "has_item": "2021-05-22 01:58:07 +0000"
     },
     "done": true
   },
@@ -4282,6 +4379,12 @@
   "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
       "has_packed_ice": "2021-05-19 03:13:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2021-05-21 22:14:04 +0000"
     },
     "done": true
   },
@@ -4744,6 +4847,12 @@
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2021-05-18 23:04:37 +0000"
+    },
+    "done": true
+  },
+  "mythicbotany:recipes/mythicbotany/rune_holder": {
+    "criteria": {
+      "has_item0": "2021-05-21 21:17:32 +0000"
     },
     "done": true
   },
