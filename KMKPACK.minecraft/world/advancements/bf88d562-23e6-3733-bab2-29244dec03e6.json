@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2021-05-22 20:25:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2021-05-18 05:51:22 +0000"
@@ -182,6 +188,18 @@
   "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
     "criteria": {
       "has_black_dye": "2021-05-22 05:50:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2021-05-25 03:49:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/cracked_livingrock_bricks": {
+    "criteria": {
+      "has_item": "2021-05-23 06:02:45 +0000"
     },
     "done": true
   },
@@ -347,6 +365,18 @@
     },
     "done": true
   },
+  "spartanweaponry:longsword": {
+    "criteria": {
+      "craft": "2021-05-25 13:58:58 +0000"
+    },
+    "done": true
+  },
+  "mythicbotany:recipes/mythicbotany/kvasir_mead": {
+    "criteria": {
+      "has_item1": "2021-05-24 04:20:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-05-17 00:27:19 +0000"
@@ -374,6 +404,18 @@
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_white_dye": "2021-05-22 05:47:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2021-05-25 13:39:43 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/world/world/wood/greenheart/log_to_wood": {
+    "criteria": {
+      "has_log": "2021-05-25 13:32:59 +0000"
     },
     "done": true
   },
@@ -461,6 +503,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/dark_quartz_stairs": {
+    "criteria": {
+      "has_item": "2021-05-24 03:29:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2021-05-17 23:33:29 +0000"
@@ -470,6 +518,24 @@
   "botania:recipes/misc/dye_magenta": {
     "criteria": {
       "has_item": "2021-05-19 04:38:15 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:biome": {
+    "criteria": {
+      "crafting_table": "2021-05-25 17:50:52 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/red_petal_block": {
+    "criteria": {
+      "has_item": "2021-05-23 04:09:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2021-05-26 01:58:41 +0000"
     },
     "done": true
   },
@@ -563,6 +629,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2021-05-25 13:39:43 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/tinkers_gadgetry": {
     "criteria": {
       "has_item": "2021-05-17 15:50:47 +0000"
@@ -572,6 +644,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2021-05-17 23:58:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2021-05-25 03:37:18 +0000"
     },
     "done": true
   },
@@ -623,6 +701,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2021-05-22 20:25:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_red_flower": "2021-05-17 21:49:56 +0000"
@@ -668,6 +752,12 @@
   "spartanweaponry:greatsword": {
     "criteria": {
       "craft": "2021-05-19 15:54:55 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:creeper": {
+    "criteria": {
+      "crafting_table": "2021-05-24 04:18:13 +0000"
     },
     "done": true
   },
@@ -743,6 +833,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2021-05-23 22:58:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2021-05-18 01:58:37 +0000"
@@ -767,9 +863,21 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/hellshelf": {
+    "criteria": {
+      "hellshelf": "2021-05-22 20:06:29 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:katana": {
     "criteria": {
       "craft": "2021-05-17 17:43:17 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_voodoo_poppets": {
+    "criteria": {
+      "has_ingredient": "2021-05-22 09:36:29 +0000"
     },
     "done": true
   },
@@ -959,6 +1067,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/world/common/slime/ender/congealed": {
+    "criteria": {
+      "has_item": "2021-05-25 13:31:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2021-05-17 00:06:14 +0000"
@@ -1079,6 +1193,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/vial": {
+    "criteria": {
+      "has_item": "2021-05-24 02:32:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2021-05-17 00:17:27 +0000"
@@ -1115,6 +1235,12 @@
     },
     "done": true
   },
+  "allthemodium:mining": {
+    "criteria": {
+      "mining": "2021-05-24 14:09:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-05-17 00:30:53 +0000"
@@ -1133,9 +1259,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2021-05-25 14:01:11 +0000"
+    },
+    "done": true
+  },
   "inventorypets:grave": {
     "criteria": {
       "crafting_table": "2021-05-21 02:25:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2021-05-22 08:50:44 +0000"
     },
     "done": true
   },
@@ -1220,6 +1358,12 @@
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2021-05-19 16:21:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2021-05-25 13:39:43 +0000"
     },
     "done": true
   },
@@ -1431,6 +1575,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2021-05-25 17:10:20 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/livingrock_bricks_slab": {
+    "criteria": {
+      "has_item": "2021-05-23 06:02:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-05-17 00:27:19 +0000"
@@ -1449,6 +1605,12 @@
     },
     "done": true
   },
+  "inventorypets:pig": {
+    "criteria": {
+      "crafting_table": "2021-05-24 04:16:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sniper_duel": {
     "criteria": {
       "killed_skeleton": "2021-05-20 05:15:04 +0000"
@@ -1464,6 +1626,12 @@
   "botania:recipes/botania/manasteel_shovel": {
     "criteria": {
       "has_item": "2021-05-17 19:09:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2021-05-26 01:58:41 +0000"
     },
     "done": true
   },
@@ -1509,6 +1677,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2021-05-26 01:58:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-05-17 00:27:19 +0000"
@@ -1524,6 +1698,12 @@
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2021-05-20 02:00:02 +0000"
+    },
+    "done": true
+  },
+  "aiotbotania:recipes/aiotbotania/manasteel_aiot": {
+    "criteria": {
+      "has_pickaxe": "2021-05-26 00:08:28 +0000"
     },
     "done": true
   },
@@ -1605,6 +1785,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/60ench": {
+    "criteria": {
+      "enchanted_item": "2021-05-25 14:24:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/terracotta": {
     "criteria": {
       "has_clay_block": "2021-05-20 01:00:19 +0000"
@@ -1623,6 +1809,18 @@
     },
     "done": true
   },
+  "inventorypets:chicken": {
+    "criteria": {
+      "crafting_table": "2021-05-25 17:51:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2021-05-25 13:39:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2021-05-17 00:17:27 +0000"
@@ -1632,6 +1830,12 @@
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_reeds": "2021-05-17 14:26:53 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:pingot": {
+    "criteria": {
+      "crafting_table": "2021-05-23 07:50:05 +0000"
     },
     "done": true
   },
@@ -1979,6 +2183,18 @@
     },
     "done": true
   },
+  "botania:recipes/botania/mushroom_14": {
+    "criteria": {
+      "has_alt_item": "2021-05-25 17:09:23 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mushroom_13": {
+    "criteria": {
+      "has_alt_item": "2021-05-25 17:09:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2021-05-17 15:56:44 +0000"
@@ -1988,6 +2204,12 @@
   "minecraft:recipes/decorations/lime_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-05-17 00:30:53 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mushroom_15": {
+    "criteria": {
+      "has_alt_item": "2021-05-25 17:09:23 +0000"
     },
     "done": true
   },
@@ -2039,9 +2261,33 @@
     },
     "done": true
   },
+  "spartanweaponry:glaive": {
+    "criteria": {
+      "craft": "2021-05-25 14:03:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_black_dye": "2021-05-22 05:50:55 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mushroom_10": {
+    "criteria": {
+      "has_alt_item": "2021-05-25 17:09:23 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mushroom_12": {
+    "criteria": {
+      "has_alt_item": "2021-05-25 17:09:23 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mushroom_11": {
+    "criteria": {
+      "has_alt_item": "2021-05-25 17:09:23 +0000"
     },
     "done": true
   },
@@ -2129,6 +2375,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_the_recipe": "2021-05-25 02:09:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-05-17 00:30:53 +0000"
@@ -2183,6 +2435,18 @@
     },
     "done": true
   },
+  "spartanweaponry:javelin": {
+    "criteria": {
+      "craft": "2021-05-25 13:41:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2021-05-24 04:20:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2021-05-17 00:01:04 +0000"
@@ -2192,6 +2456,12 @@
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_spruce_planks": "2021-05-17 00:00:59 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/dark_quartz_pillar": {
+    "criteria": {
+      "has_item": "2021-05-24 03:29:51 +0000"
     },
     "done": true
   },
@@ -2210,6 +2480,12 @@
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2021-05-18 19:59:56 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/endshelf": {
+    "criteria": {
+      "endshelf": "2021-05-25 15:58:28 +0000"
     },
     "done": true
   },
@@ -2381,6 +2657,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/pool_minecart": {
+    "criteria": {
+      "has_item": "2021-05-26 01:58:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2021-05-17 21:51:36 +0000"
@@ -2471,9 +2753,21 @@
     },
     "done": true
   },
+  "botania:recipes/botania/chiseled_livingrock_bricks": {
+    "criteria": {
+      "has_item": "2021-05-23 06:02:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2021-05-17 16:36:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2021-05-25 13:39:40 +0000"
     },
     "done": true
   },
@@ -2489,9 +2783,21 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2021-05-25 03:49:43 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/pink_shiny_flower": {
     "criteria": {
       "has_item": "2021-05-17 22:55:04 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:lance": {
+    "criteria": {
+      "craft": "2021-05-25 13:58:13 +0000"
     },
     "done": true
   },
@@ -2519,6 +2825,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/petal_red_double": {
+    "criteria": {
+      "has_alt_item": "2021-05-23 04:09:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2021-05-18 20:00:18 +0000"
@@ -2534,6 +2846,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared_block/seared_ladder": {
     "criteria": {
       "has_item": "2021-05-17 15:30:51 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/45ench": {
+    "criteria": {
+      "enchanted_item": "2021-05-24 23:28:54 +0000"
     },
     "done": true
   },
@@ -2615,6 +2933,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/dark_quartz_slab": {
+    "criteria": {
+      "has_item": "2021-05-24 03:29:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2021-05-17 22:30:35 +0000"
@@ -2630,6 +2954,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
     "criteria": {
       "has_dark_prismarine": "2021-05-20 16:41:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/silk_touch_nest": {
+    "criteria": {
+      "silk_touch_nest": "2021-05-24 21:56:21 +0000"
     },
     "done": true
   },
@@ -2693,6 +3023,12 @@
     },
     "done": true
   },
+  "inventorypets:spider": {
+    "criteria": {
+      "crafting_table": "2021-05-24 04:16:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2021-05-17 00:00:59 +0000"
@@ -2702,6 +3038,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_light_gray_dye": "2021-05-22 05:47:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2021-05-25 03:38:31 +0000"
     },
     "done": true
   },
@@ -2729,6 +3071,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2021-05-22 20:25:12 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/travel_belt": {
     "criteria": {
       "has_item": "2021-05-17 19:09:10 +0000"
@@ -2738,6 +3086,12 @@
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2021-05-18 23:15:28 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/chiseled_dark_quartz": {
+    "criteria": {
+      "has_base_item": "2021-05-24 03:29:51 +0000"
     },
     "done": true
   },
@@ -2885,6 +3239,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2021-05-25 14:03:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2021-05-17 23:58:23 +0000"
@@ -2912,6 +3272,12 @@
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2021-05-17 21:48:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2021-05-25 14:01:11 +0000"
     },
     "done": true
   },
@@ -2993,6 +3359,18 @@
     },
     "done": true
   },
+  "inventorypets:quiver": {
+    "criteria": {
+      "crafting_table": "2021-05-24 04:15:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2021-05-25 14:01:11 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/livingrock_wall": {
     "criteria": {
       "has_item": "2021-05-22 04:42:36 +0000"
@@ -3047,9 +3425,21 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/upgrade_hellshelf": {
+    "criteria": {
+      "glowing": "2021-05-25 16:52:50 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_forge_brick": {
     "criteria": {
       "ice": "2021-05-21 22:59:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2021-05-23 07:08:49 +0000"
     },
     "done": true
   },
@@ -3146,6 +3536,12 @@
   "minecraft:recipes/decorations/prismarine_wall": {
     "criteria": {
       "has_prismarine": "2021-05-20 16:41:31 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/livingrock_bricks_wall": {
+    "criteria": {
+      "has_item": "2021-05-23 06:02:45 +0000"
     },
     "done": true
   },
@@ -3287,6 +3683,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/turtle_helmet": {
+    "criteria": {
+      "has_scute": "2021-05-24 03:17:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2021-05-17 21:51:36 +0000"
@@ -3353,6 +3755,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2021-05-25 13:39:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-05-17 00:30:53 +0000"
@@ -3412,17 +3820,26 @@
       "minecraft:witch": "2021-05-18 21:20:06 +0000",
       "minecraft:wither_skeleton": "2021-05-18 19:59:39 +0000",
       "minecraft:husk": "2021-05-18 01:39:18 +0000",
+      "minecraft:ender_dragon": "2021-05-25 03:37:18 +0000",
+      "minecraft:shulker": "2021-05-25 13:40:27 +0000",
       "minecraft:cave_spider": "2021-05-17 19:15:39 +0000",
       "minecraft:piglin": "2021-05-17 23:33:32 +0000",
       "minecraft:silverfish": "2021-05-17 00:47:36 +0000",
       "minecraft:enderman": "2021-05-17 16:40:46 +0000",
       "minecraft:stray": "2021-05-17 20:25:43 +0000",
+      "minecraft:endermite": "2021-05-26 02:09:24 +0000",
       "minecraft:vex": "2021-05-20 23:12:00 +0000",
       "minecraft:zombie": "2021-05-17 15:07:01 +0000",
       "minecraft:drowned": "2021-05-17 17:50:53 +0000",
       "minecraft:zombie_villager": "2021-05-18 01:31:11 +0000"
     },
     "done": false
+  },
+  "tconstruct:recipes/tconstruct/world/common/slime/ender/slimeblock": {
+    "criteria": {
+      "has_item": "2021-05-25 13:31:24 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
@@ -3562,6 +3979,12 @@
     },
     "done": true
   },
+  "inventorypets:enderchest": {
+    "criteria": {
+      "crafting_table": "2021-05-25 17:52:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_red_dye": "2021-05-17 20:18:39 +0000"
@@ -3601,6 +4024,12 @@
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2021-05-20 01:43:58 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/slimesling/ender": {
+    "criteria": {
+      "has_item": "2021-05-25 13:31:24 +0000"
     },
     "done": true
   },
@@ -3772,6 +4201,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/brewery": {
+    "criteria": {
+      "has_alt_item": "2021-05-22 08:47:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2021-05-17 00:00:19 +0000"
@@ -3799,6 +4234,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2021-05-17 15:13:50 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:loot": {
+    "criteria": {
+      "crafting_table": "2021-05-23 07:47:43 +0000"
     },
     "done": true
   },
@@ -3835,6 +4276,12 @@
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2021-05-17 21:49:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2021-05-25 13:39:43 +0000"
     },
     "done": true
   },
@@ -3886,6 +4333,12 @@
     },
     "done": true
   },
+  "colossalchests:size/wood": {
+    "criteria": {
+      "criteria_0": "2021-05-25 01:41:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2021-05-17 21:45:58 +0000"
@@ -3928,6 +4381,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tconstruct/general/tools/modifiers/slime_crystal/ender": {
+    "criteria": {
+      "has_item": "2021-05-25 13:31:24 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/petal_black": {
     "criteria": {
       "has_item": "2021-05-17 22:54:57 +0000"
@@ -3958,6 +4417,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
+    "criteria": {
+      "has_orange_dye": "2021-05-24 17:36:01 +0000"
+    },
+    "done": true
+  },
   "toughasnails:recipes/decorations/rain_collector": {
     "criteria": {
       "has_barrel": "2021-05-19 22:31:15 +0000"
@@ -3985,6 +4450,12 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_stick": "2021-05-17 00:01:04 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/slime/ender/slimeball_from_congealed": {
+    "criteria": {
+      "has_item": "2021-05-25 14:53:38 +0000"
     },
     "done": true
   },
@@ -4042,6 +4513,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/foods/ender_slime_drop_campfire": {
+    "criteria": {
+      "has_item": "2021-05-25 13:31:24 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/yellow_shiny_flower": {
     "criteria": {
       "has_item": "2021-05-19 22:55:10 +0000"
@@ -4057,6 +4534,12 @@
   "minecraft:recipes/building_blocks/blue_terracotta": {
     "criteria": {
       "has_terracotta": "2021-05-18 23:25:04 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:enchantingtable": {
+    "criteria": {
+      "crafting_table": "2021-05-24 20:37:39 +0000"
     },
     "done": true
   },
@@ -4156,6 +4639,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_from_smelting": {
+    "criteria": {
+      "has_lapis_ore": "2021-05-23 07:52:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2021-05-17 00:00:59 +0000"
@@ -4171,6 +4660,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2021-05-17 00:05:50 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/alchemy_catalyst": {
+    "criteria": {
+      "has_alt_item": "2021-05-22 08:47:51 +0000"
     },
     "done": true
   },
@@ -4234,6 +4729,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2021-05-24 04:20:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
     "criteria": {
       "has_red_flower": "2021-05-19 18:50:40 +0000"
@@ -4264,9 +4765,45 @@
     },
     "done": true
   },
+  "botania:recipes/botania/mushroom_5": {
+    "criteria": {
+      "has_alt_item": "2021-05-25 17:09:23 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mushroom_4": {
+    "criteria": {
+      "has_alt_item": "2021-05-25 17:09:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2021-05-17 02:01:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mushroom_3": {
+    "criteria": {
+      "has_alt_item": "2021-05-25 17:09:23 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mushroom_2": {
+    "criteria": {
+      "has_alt_item": "2021-05-25 17:09:23 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mushroom_1": {
+    "criteria": {
+      "has_alt_item": "2021-05-25 17:09:23 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mushroom_0": {
+    "criteria": {
+      "has_alt_item": "2021-05-25 17:09:23 +0000"
     },
     "done": true
   },
@@ -4279,6 +4816,36 @@
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-05-22 05:54:04 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mushroom_9": {
+    "criteria": {
+      "has_alt_item": "2021-05-25 17:09:23 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mushroom_8": {
+    "criteria": {
+      "has_alt_item": "2021-05-25 17:09:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2021-05-26 01:58:41 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mushroom_7": {
+    "criteria": {
+      "has_alt_item": "2021-05-25 17:09:23 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mushroom_6": {
+    "criteria": {
+      "has_alt_item": "2021-05-25 17:09:23 +0000"
     },
     "done": true
   },
@@ -4321,6 +4888,12 @@
   "tconstruct:recipes/redstone/common/slime/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2021-05-17 15:50:47 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:lead": {
+    "criteria": {
+      "crafting_table": "2021-05-24 04:17:30 +0000"
     },
     "done": true
   },
@@ -4480,6 +5053,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2021-05-25 17:10:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2021-05-17 19:47:40 +0000"
@@ -4498,6 +5077,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2021-05-25 14:01:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2021-05-17 14:27:33 +0000"
@@ -4513,6 +5098,12 @@
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2021-05-17 23:58:23 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_red": {
+    "criteria": {
+      "has_item": "2021-05-23 04:09:21 +0000"
     },
     "done": true
   },
@@ -4543,6 +5134,24 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-05-17 00:30:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2021-05-24 17:34:56 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/world/world/wood/greenheart/planks": {
+    "criteria": {
+      "has_log": "2021-05-25 13:32:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2021-05-26 04:29:42 +0000"
     },
     "done": true
   },
@@ -4675,6 +5284,7 @@
       "mutton": "2021-05-18 03:58:39 +0000",
       "bread": "2021-05-17 15:03:53 +0000",
       "cooked_chicken": "2021-05-17 20:02:26 +0000",
+      "cooked_salmon": "2021-05-23 23:11:48 +0000",
       "carrot": "2021-05-21 01:47:05 +0000"
     },
     "done": false
@@ -4739,6 +5349,12 @@
     },
     "done": true
   },
+  "spartanweaponry:flanged_mace": {
+    "criteria": {
+      "craft": "2021-05-25 13:41:31 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared_block/seared_bricks_stairs": {
     "criteria": {
       "has_item": "2021-05-18 03:28:59 +0000"
@@ -4748,6 +5364,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2021-05-17 19:08:22 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/slab_recombine/livingrock_bricks": {
+    "criteria": {
+      "has_item": "2021-05-23 06:02:45 +0000"
     },
     "done": true
   },
@@ -4772,6 +5394,18 @@
   "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-05-22 05:54:04 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2021-05-22 09:36:29 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:tomahawk": {
+    "criteria": {
+      "craft": "2021-05-25 13:41:47 +0000"
     },
     "done": true
   },
@@ -4820,6 +5454,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2021-05-17 15:07:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2021-05-23 22:42:16 +0000"
     },
     "done": true
   },
@@ -4955,6 +5595,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/slimeboots/ender": {
+    "criteria": {
+      "has_item": "2021-05-25 13:31:24 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared_block/seared_cobble_wall_stonecutter": {
     "criteria": {
       "has_item": "2021-05-20 14:02:31 +0000"
@@ -5027,6 +5673,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2021-05-24 01:27:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2021-05-17 00:42:51 +0000"
@@ -5048,6 +5700,12 @@
   "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
       "has_packed_ice": "2021-05-19 21:39:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/safely_harvest_honey": {
+    "criteria": {
+      "safely_harvest_honey": "2021-05-24 04:20:34 +0000"
     },
     "done": true
   },
@@ -5114,6 +5772,12 @@
   "tconstruct:recipes/tconstruct/gadgets/gadgets/slimesling/sky": {
     "criteria": {
       "has_item": "2021-05-17 15:50:47 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:warhammer": {
+    "criteria": {
+      "craft": "2021-05-25 14:03:00 +0000"
     },
     "done": true
   },
@@ -5201,6 +5865,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/mana_glass_pane": {
+    "criteria": {
+      "has_item": "2021-05-24 02:32:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-05-17 00:27:19 +0000"
@@ -5240,6 +5910,12 @@
   "botania:recipes/botania/cyan_shiny_flower": {
     "criteria": {
       "has_item": "2021-05-20 00:59:38 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/food/rabbit_stew_from_toadstool": {
+    "criteria": {
+      "has_cooked_rabbit": "2021-05-25 17:10:20 +0000"
     },
     "done": true
   },
@@ -5429,6 +6105,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/mossy_livingrock_bricks": {
+    "criteria": {
+      "has_item": "2021-05-23 06:02:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2021-05-17 00:09:51 +0000"
@@ -5495,9 +6177,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_from_blasting": {
+    "criteria": {
+      "has_lapis_ore": "2021-05-23 07:52:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_white_dye": "2021-05-22 05:47:09 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/dark_quartz": {
+    "criteria": {
+      "has_the_recipe": "2021-05-24 03:29:47 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:quarterstaff": {
+    "criteria": {
+      "craft": "2021-05-25 14:00:36 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_white_marble": {
+    "criteria": {
+      "has_ingredient": "2021-05-23 07:36:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2021-05-25 13:40:32 +0000"
     },
     "done": true
   },
@@ -5522,6 +6234,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2021-05-17 00:01:03 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2021-05-22 09:36:29 +0000"
     },
     "done": true
   },
@@ -5552,6 +6270,12 @@
   "tombstone:adventure/create_magic_tablet": {
     "criteria": {
       "has_magic_tablet": "2021-05-18 01:43:11 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/hourglass": {
+    "criteria": {
+      "has_item": "2021-05-24 02:32:08 +0000"
     },
     "done": true
   },
@@ -5615,6 +6339,12 @@
     },
     "done": true
   },
+  "spartanweaponry:boomerang": {
+    "criteria": {
+      "craft": "2021-05-25 13:58:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2021-05-17 21:48:46 +0000"
@@ -5642,6 +6372,12 @@
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_the_recipe": "2021-05-17 15:09:01 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/livingrock_bricks_stairs": {
+    "criteria": {
+      "has_item": "2021-05-23 06:02:45 +0000"
     },
     "done": true
   },
@@ -5729,6 +6465,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/conversions/red_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2021-05-23 04:09:21 +0000"
+    },
+    "done": true
+  },
   "appliedenergistics2:main/growth_accelerator": {
     "criteria": {
       "certus": "2021-05-19 21:39:54 +0000"
@@ -5756,6 +6498,12 @@
   "botania:recipes/botania/yellow_petal_block": {
     "criteria": {
       "has_item": "2021-05-19 04:38:15 +0000"
+    },
+    "done": true
+  },
+  "colossalchests:uncolossal": {
+    "criteria": {
+      "criteria_0": "2021-05-23 21:08:19 +0000"
     },
     "done": true
   },
@@ -5819,6 +6567,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2021-05-25 14:01:11 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/quartz_blaze": {
     "criteria": {
       "has_item": "2021-05-17 23:33:29 +0000"
@@ -5852,6 +6606,18 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2021-05-17 14:27:55 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:spear": {
+    "criteria": {
+      "craft": "2021-05-25 13:42:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2021-05-25 17:04:00 +0000"
     },
     "done": true
   },
@@ -5891,9 +6657,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2021-05-25 14:01:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2021-05-26 01:58:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tconstruct/general/tools/modifiers/slime_crystal/earth": {
     "criteria": {
       "has_item": "2021-05-17 22:09:13 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_grave_marble": {
+    "criteria": {
+      "has_grave_marble": "2021-05-23 07:36:02 +0000"
     },
     "done": true
   },
@@ -5930,6 +6714,12 @@
   "botania:recipes/botania/knockback_belt": {
     "criteria": {
       "has_item": "2021-05-17 19:09:10 +0000"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/facade": {
+    "criteria": {
+      "facade": "2021-05-24 03:26:50 +0000"
     },
     "done": true
   },
