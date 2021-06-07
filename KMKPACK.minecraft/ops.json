@@ -10,5 +10,11 @@
     "name": "Yammero",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "79a4bdf4-4811-3d54-9dd3-114e1d08d61b",
+    "name": "MrPrecher",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
